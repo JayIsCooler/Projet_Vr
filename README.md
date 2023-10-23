@@ -9,11 +9,17 @@ Vous incarnez lonreille, un lapin rose et vous devez retrouvez votre pot de beur
 
 ## Moodboard
 
-
-
-
+![moodboard](medias/moodboard.png)
 
 
 - https://www.youtube.com/watch?v=O2XuQq2uplU
 - https://www.youtube.com/watch?v=UOC1vhYWZNQ
 - https://www.youtube.com/watch?v=6xhvGjIsvjw
+
+
+## Carte de l'environnement
+
+
+## Schéma de programmation et d'intéractivité
+
+![schema](medias/schema.png)
