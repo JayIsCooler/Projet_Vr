@@ -20,6 +20,7 @@ Vous incarnez lonreille, un lapin rose et vous devez retrouvez votre pot de beur
 
 ## Carte de l'environnement
 
+![carte](medias/carte.png)
 
 ## Schéma de programmation et d'intéractivité
 
