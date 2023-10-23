@@ -1,7 +1,9 @@
 # Projet_Vr
 
 ## Résumé du projet
-Le joueur un lapin qui peut courir à de très grande vitesse et doit retrouver son pot d'arachide collector.
+Le joueur un lapin qui peut courir à de très grande vitesse et doit retrouver son pot de beurre d'arachide collector.
 
 ## Ce que je propose
-Le joueur va pouvoir courir à des vitesses élévés et devoir parcourir des niveaux semés d'embûches, tout cela dans le but de retrouver son précieux pot de beure d'arachide. 
+Vous incarnez lonreille, un lapin rose super rapide et vous devez retrouvez votre pot de beurre d'arachide collector qui a été voler par l'effroyable Blamor l'ours gris. Parcourez les différents niveaux et suivez plusiseurs chemins vers votre objectif. Deux fin sont possibles et dépendent des objets amasser par lonreille. 
+
+
