@@ -13,7 +13,7 @@ Le joueur va contrôler un lapin à la première personne et devra manoeuvrer ce
 Chaque niveau contient des ennemies soit tant coriace qu'agacent. Ces derniers peuvent être vaincus de différentes façons et certains sont invulnérables aux attaques jusqu'à ce que l'on trouve leur point faible(par exemple l'ennemi pourrait avoir un casque et il faudrait faire tomber une roche dessus pour le briser). À la fin des niveaux il y a un boss qui bloque l'accès vers le prochain niveau et il faut en arriver à bout pour pouvoir continuer.
 
 ## Niveaux
-Le jeu comporte 9 niveaux (11 avec les zones cachées) tous se passant dans une ville. Plusieurs chemins sont possibles pour arriver au dernier niveau. Dans chacun des niveaux est dissimulée un pièce de manette et une fois toutes ces pièces de manette collecter nous pouvons débloquer la fin secrète.
+Le jeu comporte 9 niveaux (11 avec les zones cachées) tous se passant dans une ville. Plusieurs chemins sont possibles pour arriver au dernier niveau. Dans chacun des niveaux est dissimulée un pièce de manette et une fois toutes ces pièces de manette collecter nous pouvons débloquer la bonne fin. Si nous ne collectons pas toutes les pièces de manette nous avons la mauvaise fin.
 
 
 ## Moodboard Visuel
